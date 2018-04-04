@@ -1,5 +1,5 @@
 # Deep Learning Quick Reference
-This is the code repository for [Deep Learning Quick Reference](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-quick-reference?utm_source=github&utm_medium=repository&utm_campaign=9781788837996), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Deep Learning Quick Reference](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-quick-reference?utm_source=github&utm_medium=repository&utm_campaign=9781788837996), by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Deep learning has become an essential necessity to enter the world of artificial intelligence. With this book deep learning techniques will become more accessible, practical, and relevant to practicing data scientists. It moves deep learning from academia to the real world through practical examples.
 
